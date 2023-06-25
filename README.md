@@ -3,10 +3,10 @@
 This repo demonstrate on how you can create APIs and backend services with go.
 
 ## Installation
+Make sure you have go installed if not checkout [Go installation](https://go.dev/doc/install).
+Fork the repo.
 
-Fork the repo
-
-install [gorilla/mux](https://github.com/gorilla/mux)
+install [gorilla/mux](https://github.com/gorilla/mux).
 ```bash
 go mod init <project name>
 go get -u github.com/gorilla/mux
